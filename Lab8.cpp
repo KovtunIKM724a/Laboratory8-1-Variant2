@@ -6,8 +6,6 @@ const int n = 15;
 
 int main()
 {
-	setlocale(LC_CTYPE, "ukr");
-
 	double array[n];
 	float max_neg;
 	int a;
