@@ -6,6 +6,8 @@ const int n = 15;
 
 int main()
 {
+	srand(time(nullptr));
+	
 	double array[n];
 	float max_neg;
 	int a;
