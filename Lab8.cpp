@@ -34,5 +34,5 @@ int main()
 	}
 	a = round(max_neg);
 
-	cout << "Найбiльше округлене вiд'ємне число в масивi: " << a;
+	cout << "The largest rounded negative number in the array: " << a;
 }
