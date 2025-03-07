@@ -34,5 +34,5 @@ int main()
 	}
 	a = round(max_neg);
 
-	cout << a;
+	cout << "Найбiльше округлене вiд'ємне число в масивi: " << a;
 }
